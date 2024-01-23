@@ -28,7 +28,8 @@
 				"ms-toolsai.jupyter",
 				"GitHub.codespaces",
 				"ms-azuretools.vscode-docker",
-				"DavidAnson.vscode-markdownlint"
+				"DavidAnson.vscode-markdownlint",
+				"ms-toolsai.datawrangler"
 			]
 		}
 	}
