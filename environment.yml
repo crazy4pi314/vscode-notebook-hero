@@ -4,13 +4,11 @@ channels:
 dependencies:
   - python=3.11
   - ipykernel # required for jupyter notebook in VS Code
-  - mimesis
   - scikit-learn
   - matplotlib
   - seaborn
   - pandas
   - pyarrow # required for pandas 
-  
 #   - pip  # if you need more packages installed from pip 
 #   - pip:
 #     - foo
